@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946997869779",
+    "project_id": "rentalpower-6e237",
+    "storage_bucket": "rentalpower-6e237.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946997869779:android:c5287d06b974e50860e826",
+        "android_client_info": {
+          "package_name": "com.rentalpower.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRL9EAIuiztZwXJT0YMRt2TKUcA1M7wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
